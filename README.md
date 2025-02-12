@@ -45,6 +45,7 @@ top swing? side swing?
 
 tube dia:
 
+mount instuctions: https://si.shimano.com/en/pdfs/dm/FD0003/DM-FD0003-06-ENG.pdf
 
 
 

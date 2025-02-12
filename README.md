@@ -62,6 +62,13 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-RD-M8000-GS.html
 
 https://bike.shimano.com/de-DE/products/components/pdp.P-RD-M8000-SGS.html
 
+
+https://nsmb.com/articles/shimano-derailleur-clutch-service/
+
+https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-rd-m8000-2045829228/ ? missing part?
+https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-11-fach-schaltwerk-rd-m8000-sgs-1768459588/
+
+
 ### rear cassette
 CS-M8000
 11-40Z (bs), 11-42Z (bt), 11-46Z (bu)

@@ -47,6 +47,9 @@ tube dia:
 
 mount instuctions: https://si.shimano.com/en/pdfs/dm/FD0003/DM-FD0003-06-ENG.pdf
 
+https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-umwerfer-fd-m8025-1885198662/
+
+
 
 
 ### rear derailleur

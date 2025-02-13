@@ -63,10 +63,20 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-RD-M8000-GS.html
 https://bike.shimano.com/de-DE/products/components/pdp.P-RD-M8000-SGS.html
 
 
-https://nsmb.com/articles/shimano-derailleur-clutch-service/
 
 https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-rd-m8000-2045829228/ ? missing part?
 https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-11-fach-schaltwerk-rd-m8000-sgs-1768459588/
+
+#### clutch issues
+https://nsmb.com/articles/shimano-derailleur-clutch-service/
+or clutch lever bend: 
+https://www.mtbr.com/threads/shimano-xt-read-derailer-clutch-wont-stay-engaged.1148141/page-3?nested_view=1&sortby=oldest
+
+**mounting positions**
+https://www.mtbr.com/attachments/clutch-jpg.1370725/
+https://www.mtbr.com/attachments/clutch2-jpg.1371171/
+https://www.mtbr.com/attachments/screen-shot-2020-11-25-at-12-46-59-am-jpg.1379289/
+
 
 
 ### rear cassette

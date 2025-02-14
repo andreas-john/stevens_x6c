@@ -72,6 +72,9 @@ https://nsmb.com/articles/shimano-derailleur-clutch-service/
 or clutch lever bend: 
 https://www.mtbr.com/threads/shimano-xt-read-derailer-clutch-wont-stay-engaged.1148141/page-3?nested_view=1&sortby=oldest
 
+Y5RT98030 Shimano Deore XT Rear Derailleur Switch Lever Unit Original Repair Part
+https://www.ebay.co.uk/itm/405097276900?chn=ps&_ul=GB&var=675181352746&_trkparms=ispr%3D1&amdata=enc%3A1Y-5XJ5JtQHes5PpwOHPMAg15&norover=1&mkevt=1&mkrid=710-170020-547209-2&mkcid=2&itemid=675181352746_405097276900&targetid=325425753764&device=c&mktype=pla&googleloc=9195910&poi=&campaignid=20784045347&mkgroupid=157398042404&rlsatarget=pla-325425753764&abcId=&merchantid=6995734&gad_source=1&gbraid=0AAAAAo9ZJxvtPQMaxMZHuv45-t1145RTi&gclid=EAIaIQobChMI07zD1OfCiwMVF5CDBx3-1h6sEAQYAyABEgJdKfD_BwE
+
 **mounting positions**
 https://www.mtbr.com/attachments/clutch-jpg.1370725/
 https://www.mtbr.com/attachments/clutch2-jpg.1371171/

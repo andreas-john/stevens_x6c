@@ -49,6 +49,13 @@ mount instuctions: https://si.shimano.com/en/pdfs/dm/FD0003/DM-FD0003-06-ENG.pdf
 
 https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-umwerfer-fd-m8025-1885198662/
 
+explosionszeichnung und teilenummern: https://www.tnc-hamburg.com/Antrieb-Schaltung/MTB-Komponenten/Shimano-Ersatzteile-MTB/Shimano-XT-M8000-Ersatzteile/Shimano-Deore-XT-FD-M8025-Umwerfer-Ersatzteil-Einstellschraube-mit-Gegenplatte-Nr-2::43170.html?srsltid=AfmBOop7YJbpaBrYdTy43nCYraaiZSPYb5tC1Tuu73GAs0kYtjkgW7_c
+
+#### spacer:
+
+Y57Y98040
+
+https://www.amazon.de/SM-AD17-M-clamp-band-adapters-31-8/dp/B005BKRXH2
 
 
 

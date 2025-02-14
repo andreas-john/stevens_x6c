@@ -7,8 +7,8 @@ my personal max speed: 15/17 + 48
 
 | System               | Rear teeth | Front teeth | Ratio Min | Ratio Max | Ratio Mymax 17  | Ratio Mymax 15 |
 |----------------------|------------|-------------|-----------|-----------|--------------|--------------|
-| Shimano Deore 3x9    | 11-13-15-17-20-23-26-30-36 | 26-36-48  | 0.722 | 4.364 | 2.823  |  3.2 |
-| Shimano XT 8000 2x11 | 11 / 42    | 26-36       | 0.667     | 3.455     |              |              |   
+| Shimano Deore 3x9    | 11-13-15-17-20-23-26-30-36 | 26-36-48  | 0.722 | 4.364 | 2.824  |  3.2 |
+| Shimano XT 8000 2x11 | 11-13-15-17-19-21-24-28-32-37-42   | 26-36       | 0.619     | 3.455 (38)    |  3,272(36)         |      2,77 (12:36)     |   
 
  
 https://bike.shimano.com/de-DE/products/components.series_deorext.html

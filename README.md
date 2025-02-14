@@ -40,14 +40,17 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-SL-M8100-IL.html
 * https://www.bike-discount.de/en/shimano-xt-fd-m8020-2x11-speed-front-derailleur-side-swing-clamp-deep-34.9mm
 * https://www.bike-discount.de/en/shimano-slx-fd-m7025-2x11-front-derailleur-high-down-swing-34.9mm
 
-top swing? side swing?
+-> top swing (not side swing
 
 
-tube dia:
+tube dia: 31,8mm
 
 mount instuctions: https://si.shimano.com/en/pdfs/dm/FD0003/DM-FD0003-06-ENG.pdf
 
 https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-umwerfer-fd-m8025-1885198662/
+
+
+
 
 
 

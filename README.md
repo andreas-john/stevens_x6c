@@ -55,9 +55,8 @@ explosionszeichnung und teilenummern: https://www.tnc-hamburg.com/Antrieb-Schalt
 
 Y57Y98040
 
-https://www.amazon.de/SM-AD17-M-clamp-band-adapters-31-8/dp/B005BKRXH2
-
-
+* https://www.amazon.de/SM-AD17-M-clamp-band-adapters-31-8/dp/B005BKRXH2
+* https://www.bicyclehero.com/eu/shimano-sm-ad17-m-band-adapter-34-9-to-31-8-y57y98040.html
 
 
 

@@ -1,4 +1,49 @@
 # stevens_c6
+
+## frame measurements
+
+* seat tube od: 
+* seat post od / tube id: 
+* BB width
+* kettenlinie
+
+* stearing tube id: 
+* stearing tube shape: straight
+
+* reach
+* ...
+
+## current config:
+### drive 
+
+| component |           |
+|-----------|-----------|
+| crankset  |           |
+| Bottom bracket |        |
+| front derailleur |           |
+| rear derailleur |           |
+| cassette |           |
+| chain |           |
+| front shifter |           |
+| rear shifter |           |
+| cable |           |
+
+other replacables
+
+### brakes
+
+| component |               |
+|-----------|---------------|
+| break leaver l |    |
+| break leaver r |    |
+| brake caliper f/r |   |
+| brake pads |    |
+| disk f/r  | |
+| break hose |  |
+
+* other replacables
+
+# rebuild
 short spec list for rebuilding my Stevens C6
 
 

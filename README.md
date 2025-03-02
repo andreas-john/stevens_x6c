@@ -1,6 +1,6 @@
 # stevens_c6
 
-## frame measurements
+## frame 
 
 * seat tube od: 
 * seat post od / tube id: 
@@ -14,8 +14,38 @@
 * stearing tube id: 
 * stearing tube shape: straight
 
+* stack
 * reach
 * ...
+
+## other componentx
+
+
+* gabel: €55,- FEDERGABEL SUNTOUR28 ZOLL 2020-04 ausgetauscht
+* lenker
+* vorbau
+* KSK beaver tail
+* ABUS schloss
+
+## chronology
+* 2025-02 M8000 / M8100 revamp : ~250 (components) + ~70 maintenance 
+
+
+* 2020-12 €108,7
+  * Konus vorne Li + Re (LRS Shimano MT66) Y-2UJ98020 rechts, Y-2UJ98030 links
+  * Konus hinten Re (LRS Shimano MT66) 210290-13
+  * Shimano MT66 HR-Konus, links Y-3SY98020
+  * die 9fach Kassette CS M770
+  * Freilauf FH-M665 Y-4RL98010
+* 2020-08 € 89,00 XT BL-M8100 Disc Scheibenbremse BR-M8100 Neu
+* 2020-08 €29, -Deore Bremse Vorne mit 180mm
+* 2020-01 €15 + 4,5 Schaltwerfer RD-M591 
+* 2019-11 Schnellspanner €10+4
+* 2019-06 €70+15 Felgen | Laufradsatz 29 mt66 | gebraucht gekauft
+* 2019-06 €10,-? SM-MA90 F160 P/ S
+* 2019-04 €105,- Shimano Scheibenbremsanlage SLX Komplett Set
+
+* 20??- Stevens C6 gekauft
 
 ## current config:
 ### drive 
@@ -58,25 +88,23 @@ https://www.bike-discount.de/en/shimano-tube-joint-kit-for-sm-bh90-with-connecti
 
 
 # rebuild
-short spec list for rebuilding my Stevens C6: 
+## spec list revamped comps: 
+* 90,- used: werfer hinten + kurbelgarnitur /kettenblätter + kasette
+* 40,- + 4,3 used bremssattel + bremsleitung vorne
+* 89,72 +6,99 new bremshebel links, schalthebel rechts links
+* 31,10 +6,99 new umwerfer
+* **total: 250,82 + 11,29**
 
-90: werfer hinten + kurbelgarnitur /kettenblätter + kasette
-40 + 4,3: bremssattel + bremsleitung vorne
-89,72 +6,99: bremshebel links, schalthebel rechts links
-31,10 +6,99: umwerfer
-250,82 + 11,29
+## verbrauchsmaterialien, gekauft:
+* schaltzugset polymer: 27,22
+* kette: 40,-
+* oliven+needle : 10 x 2,01
+* **total 69,23**
 
-
-verbrauchsmaterialien, gekauft:
-schaltzugset polymer: 27,22
-kette: 40,-
-oliven+needle : 10 x 2,01
-69,23 
-
-verbrauchsmaterialien fundus:
+## verbrauchsmaterialien fundus:
 2x brakepads: 
 
-
+# considerations
 
 my personal max speed: 15/17 + 48
 

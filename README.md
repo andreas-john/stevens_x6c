@@ -21,15 +21,42 @@
 ## other componentx
 
 
-* gabel: €55,- FEDERGABEL SUNTOUR28 ZOLL 2020-04 ausgetauscht
+* gabel: €55,- FEDERGABEL SUNTOUR28 ZOLL 2020-04? ausgetauscht weil bruch
 * lenker
 * vorbau
 * KSK beaver tail
 * ABUS schloss
 
 ## chronology
+
+### 2025  
+
 * 2025-02 M8000 / M8100 revamp : ~250 (components) + ~70 maintenance 
 
+**Komponenten**
+
+* 90,- used: werfer hinten + kurbelgarnitur /kettenblätter + kasette
+* 40,- + 4,3 used bremssattel + bremsleitung vorne
+* 89,72 +6,99 new bremshebel links, schalthebel rechts links
+* 31,10 +6,99 new umwerfer
+* **total: 250,82 + 11,29**
+
+**verbrauchsmaterialien, gekauft:** 
+
+* schaltzugset polymer: 27,22
+* kette: 40,-
+* oliven+needle : 10 x 2,01
+* **total 69,23**
+
+**verbrauchsmaterialien fundus:**
+
+* 2x brakepads
+
+### 2021 
+
+* 2021-02? revamp: ~ 108 + 89 + 29 + 15 +10 +70 +10 + 50 = 381 + 60
+
+* 2021-01 repl: schaltzüge komplett polymer + hydraulik schlauch und oliven + 9fach kette : ~60?
 
 * 2020-12 €108,7
   * Konus vorne Li + Re (LRS Shimano MT66) Y-2UJ98020 rechts, Y-2UJ98030 links
@@ -37,14 +64,32 @@
   * Shimano MT66 HR-Konus, links Y-3SY98020
   * die 9fach Kassette CS M770
   * Freilauf FH-M665 Y-4RL98010
+ 
 * 2020-08 € 89,00 XT BL-M8100 Disc Scheibenbremse BR-M8100 Neu
 * 2020-08 €29, -Deore Bremse Vorne mit 180mm
-* 2020-01 €15 + 4,5 Schaltwerfer RD-M591 
+* 2020-01 €15 + 4,5 Schaltwerfer RD-M591
+
+* 2019-11:
+  * Shimano Entlüftungskit TL-BT03S 16,12€
+  * Shimano Schaltzugset OT-SP41 Polymer MTB 29,23€
+  * Shimano Adapter-Befestigungsschraube M6 x 18,7 für Bremssättel mit Stop-Ring 4x -> 8,04€
+  * Shimano Kette CN-HG53 9-fach 12,09€
+  * SRAM Lockring Contour Foam Lenkergriffe 13,10€
+
+* 2019-11
+  * maint: SM-DB-OIL Mineralöl 1 Liter	10029822	1	14,02
+  * Shimano Adapter VR auf 180mm SM-MA-F180P/S	YY00007617	1	5,95
+  * Shimano Adapter HR auf 180mm SM-MA-R180P/S	YY00007709	1	5,54
+  * Shimano Adapter HR auf 160 mm SM-MA-R160P/S	YY00007708	1	5,95
+  * Radon C-Clip Kabelhalter (10 Stück)	20030483	1	3,98
+  * Schwalbe Smart Sam Performance Addix 28" 42-622 Drahtreifen Reflex	20050520	2x ->	28,04
+ 
 * 2019-11 Schnellspanner €10+4
 * 2019-06 €70+15 Felgen | Laufradsatz 29 mt66 | gebraucht gekauft
 * 2019-06 €10,-? SM-MA90 F160 P/ S
 * 2019-04 €105,- Shimano Scheibenbremsanlage SLX Komplett Set
 
+### 20??
 * 20??- Stevens C6 gekauft
 
 ## current config:
@@ -87,22 +132,7 @@ Leitungsanschluss-Set (needle + olive) für SM-BH90
 https://www.bike-discount.de/en/shimano-tube-joint-kit-for-sm-bh90-with-connecting-screw
 
 
-# rebuild
-## spec list revamped comps: 
-* 90,- used: werfer hinten + kurbelgarnitur /kettenblätter + kasette
-* 40,- + 4,3 used bremssattel + bremsleitung vorne
-* 89,72 +6,99 new bremshebel links, schalthebel rechts links
-* 31,10 +6,99 new umwerfer
-* **total: 250,82 + 11,29**
 
-## verbrauchsmaterialien, gekauft:
-* schaltzugset polymer: 27,22
-* kette: 40,-
-* oliven+needle : 10 x 2,01
-* **total 69,23**
-
-## verbrauchsmaterialien fundus:
-2x brakepads: 
 
 # considerations
 

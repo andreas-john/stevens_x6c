@@ -59,7 +59,9 @@ Y57Y98040
 * https://www.bicyclehero.com/eu/shimano-sm-ad17-m-band-adapter-34-9-to-31-8-y57y98040.html
 
 
+## Antrieb
 
+Kette: CN-HG701 11-speed Chain with Quick-Link
 
 ### rear derailleur
 max big gear: 
@@ -113,17 +115,17 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M8000-B2.html
 https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 
 
-### angebote: 
-
-https://www.willhaben.at/iad/kaufen-und-verkaufen/d/fahrrad-einzelteile-shimano-deore-xt-2128395699
-
 ### shoppinglist:
 
 * https://www.bike-discount.de/de/shimano-xt-linkglide-sl-m8130-i-spec-ev-11-fach-schalthebel-rechts-1
 * https://www.bike-discount.de/de/shimano-xt-sl-m8100-i-spec-ev-2-fach-schalthebel-links-ohne-ogd
-* https://www.bike-discount.de/de/shimano-ot-sp41-mtb-schaltzugset-edelstahl / https://www.bike-discount.de/de/shimano-xtr-ot-sp41-polymer-schaltzugset
+* 
+
+* 
 * https://www.bike-discount.de/de/shimano-achseinheit-fuer-rd-m8000-schaltwerk-halter
 * https://www.bike-discount.de/de/shimano-xt-rd-m8000-leit/spannrollensatz
+
+
 
 
 

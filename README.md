@@ -6,6 +6,10 @@
 * seat post od / tube id: 
 * BB width
 * kettenlinie
+* top pull
+
+* v brakes aufnahme
+* discbrake calliper aufnahme
 
 * stearing tube id: 
 * stearing tube shape: straight
@@ -18,15 +22,17 @@
 
 | component |           |
 |-----------|-----------|
-| crankset  |           |
+| crankset  |  FC-M5100-B2 170 mm      |
+| Pedals |     |
 | Bottom bracket |        |
-| front derailleur |           |
-| rear derailleur |           |
-| cassette |           |
-| chain |           |
-| front shifter |           |
-| rear shifter |           |
-| cable |           |
+| front derailleur | SLX FD-M7025 2x11 Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer     |
+| rear derailleur |   XT RD-M8000 SGS   | long cage 
+| cassette |   CS-M5100-11        | 11-13-15-17-19-21-24-28-32-37-42 |
+| chainrings | |  36-26 |
+| chain |     CN-HG701 11-speed Chain with Quick-Link      |
+| front shifter | XT SL-M8100 I-Spec EV 2-fach Schalthebel links ohne OGD          |
+| rear shifter | XT Linkglide SL-M8130 I-Spec EV 11-fach Schalthebel rechts          |
+| cable |    XTR OT-SP41 Polymer Schaltzugset black       |
 
 other replacables
 
@@ -34,17 +40,39 @@ other replacables
 
 | component |               |
 |-----------|---------------|
-| break leaver l |    |
-| break leaver r |    |
+| break leaver l |  XT BL-M8100 left  |
+| break leaver r |  XT BL-M8100 right  |
 | brake caliper f/r |   |
+| caliper spacer spacer front | xxx for 180 mm rotors |
 | brake pads |    |
 | disk f/r  | |
-| break hose |  |
+| break hose | SM-BH90 |
+
 
 * other replacables
 
+Leitungsanschluss-Set (needle + olive) für SM-BH90
+https://www.bike-discount.de/en/shimano-tube-joint-kit-for-sm-bh90-with-connecting-screw
+
+
 # rebuild
-short spec list for rebuilding my Stevens C6
+short spec list for rebuilding my Stevens C6: 
+
+90: werfer hinten + kurbelgarnitur /kettenblätter + kasette
+40 + 4,3: bremssattel + bremsleitung vorne
+89,72 +6,99: bremshebel links, schalthebel rechts links
+31,10 +6,99: umwerfer
+250,82 + 11,29
+
+
+verbrauchsmaterialien, gekauft:
+schaltzugset polymer: 27,22
+kette: 40,-
+oliven+needle : 10 x 2,01
+69,23 
+
+verbrauchsmaterialien fundus:
+2x brakepads: 
 
 
 

@@ -22,17 +22,17 @@
 
 | component |           |             |
 |-----------|-----------|-------------|
-| crankset  |  FC-M5100-B2 170 mm      | |
+| crankset  |  FC-M5100-B2     |170 mm |
 | Pedals |     | |
 | Bottom bracket |        | |
-| front derailleur | SLX FD-M7025 2x11 Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer     | |
+| front derailleur | SLX FD-M7025 2x11   | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
 | rear derailleur |   XT RD-M8000 SGS   | long cage  |
 | cassette |   CS-M5100-11        | 11-13-15-17-19-21-24-28-32-37-42 |
 | chainrings | |  36-26 |
-| chain |     CN-HG701 11-speed Chain with Quick-Link      | |
-| front shifter | XT SL-M8100 I-Spec EV 2-fach Schalthebel links ohne OGD          | |
-| rear shifter | XT Linkglide SL-M8130 I-Spec EV 11-fach Schalthebel rechts          | |
-| cable |    XTR OT-SP41 Polymer Schaltzugset black       | |
+| chain |     CN-HG701-11 | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
+| front shifter | XT SL-M8100 I-Spec EV           | 2-fach Schalthebel links ohne OGD |
+| rear shifter | XT Linkglide SL-M8130 I-Spec EV    | 11-fach Schalthebel rechts|
+| cable |    XTR OT-SP41  | Polymer Schaltzugset black |
 
 other replacables
 

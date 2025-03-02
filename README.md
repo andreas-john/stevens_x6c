@@ -20,19 +20,19 @@
 ## current config:
 ### drive 
 
-| component |           |             |
-|-----------|-----------|-------------|
-| crankset  |  FC-M5100-B2     |170 mm |
-| Pedals |     | |
-| Bottom bracket |        | |
-| front derailleur | SLX FD-M7025 2x11   | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
-| rear derailleur |   XT RD-M8000 SGS   | long cage  |
-| cassette |   CS-M5100-11        | 11-13-15-17-19-21-24-28-32-37-42 |
-| chainrings | |  36-26 |
-| chain |     CN-HG701-11 | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
-| front shifter | XT SL-M8100 I-Spec EV           | 2-fach Schalthebel links ohne OGD |
-| rear shifter | XT Linkglide SL-M8130 I-Spec EV    | 11-fach Schalthebel rechts|
-| cable |    XTR OT-SP41  | Polymer Schaltzugset black |
+| component |     mf-id    |   purch & mounted     | comment |
+|-----------|--------------|---------------------|------------|
+| crankset  |  FC-M5100-B2  | 2021 / 3000km   |170 mm |
+| Pedals |     | | |
+| Bottom bracket |    |  | |
+| front derailleur | SLX FD-M7025 2x11 | 2025-02/0km  | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
+| rear derailleur |   XT RD-M8000 SGS  |2021 / 3000km  | long cage  |
+| cassette |   CS-M5100-11  |2021 / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
+| chainrings | | 2021 / 3000km  |  36-26 |
+| chain |     CN-HG701-11 |2025-02/0km | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
+| front shifter | XT SL-M8100 I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD |
+| rear shifter | XT Linkglide SL-M8130 I-Spec EV  | 2025-02/0km  | 11-fach Schalthebel rechts|
+| cable |    XTR OT-SP41 | 2025-02/0km | Polymer Schaltzugset black |
 
 other replacables
 
@@ -40,13 +40,15 @@ other replacables
 
 | component |               | |
 |-----------|---------------|--|
-| break leaver l |  XT BL-M8100 left  | |
-| break leaver r |  XT BL-M8100 right  | |
-| brake caliper f/r |   | |
-| caliper spacer spacer front | xxx for 180 mm rotors | |
-| brake pads |    | |
-| disk f/r  | | |
-| break hose | SM-BH90 | |
+| break leaver l |  XT BL-M8100 left | 2025-02/0km | |
+| break leaver r |  XT BL-M8100 right | 2025-02/0km | |
+| brake caliper f |  XT BR-M8100 | 2025-02/0km | |
+| brake caliper r |  XT BR-M8100 | 2022-02/0km | |
+| caliper spacer front | | xxx for 180 mm rotors | |
+| caliper spacer rear | | xxx for 180 mm rotors | |
+| brake pads | | 2025-02/0km |  |
+| disk f/r  | | |  |
+| break hose | SM-BH90 | |  |
 
 
 * other replacables

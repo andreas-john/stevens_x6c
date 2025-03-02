@@ -30,16 +30,16 @@
 | cassette |   CS-M5100-11  |2021 / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
 | chainrings | | 2021 / 3000km  |  36-26 |
 | chain |     CN-HG701-11 |2025-02/0km | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
-| front shifter | XT SL-M8100 I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD |
-| rear shifter | XT Linkglide SL-M8130 I-Spec EV  | 2025-02/0km  | 11-fach Schalthebel rechts|
+| front shifter | XT SL-M8100-IL I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD |
+| rear shifter | XT Linkglide SL-M8130-IR11 I-Spec EV  | 2025-02/0km  | 11-fach Schalthebel rechts|
 | cable |    XTR OT-SP41 | 2025-02/0km | Polymer Schaltzugset black |
 
 other replacables
 
 ### brakes
 
-| component |               | |
-|-----------|---------------|--|
+| component |               | | |
+|-----------|---------------|--|--|
 | break leaver l |  XT BL-M8100 left | 2025-02/0km | |
 | break leaver r |  XT BL-M8100 right | 2025-02/0km | |
 | brake caliper f |  XT BR-M8100 | 2025-02/0km | |

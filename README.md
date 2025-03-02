@@ -31,15 +31,15 @@
 
 ### 2025  
 
-* 2025-02 M8000 / M8100 revamp : ~250 (components) + ~70 maintenance 
+* 2025-02 M8000 / M8100 revamp : ~233 (components) + ~70 maintenance 
 
 **Komponenten**
 
 * 90,- used: werfer hinten + kurbelgarnitur /kettenblätter + kasette
 * 40,- + 4,3 used bremssattel + bremsleitung vorne
 * 89,72 +6,99 new bremshebel links, schalthebel rechts links
-* 31,10 +6,99 new umwerfer
-* **total: 250,82 + 11,29**
+* 13,10 +6,99 new umwerfer SLX FD-M7025
+* **total: 232,82 + 11,29**
 
 **verbrauchsmaterialien, gekauft:** 
 
@@ -56,7 +56,7 @@
 
 * 2021-02? revamp: ~ 108 + 89 + 29 + 15 +10 +70 +10 + 50 = 381 + 60
 
-* 2021-01 repl: schaltzüge komplett polymer + hydraulik schlauch und oliven + 9fach kette : ~60?
+* 2021-01 repl: schaltzüge komplett polymer + hydraulik schlauch und oliven + 9fach kette + mäntel : ~60?
 
 * 2020-12 €108,7
   * Konus vorne Li + Re (LRS Shimano MT66) Y-2UJ98020 rechts, Y-2UJ98030 links

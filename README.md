@@ -304,12 +304,22 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M8000-B2.html
 https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 
 
-### shoppinglist:
-
+## shoppinglist:
 * https://www.bike-discount.de/de/shimano-xt-linkglide-sl-m8130-i-spec-ev-11-fach-schalthebel-rechts-1
 * https://www.bike-discount.de/de/shimano-xt-sl-m8100-i-spec-ev-2-fach-schalthebel-links-ohne-ogd
 * 
 
-* 
+### possible spearparts 
 * https://www.bike-discount.de/de/shimano-achseinheit-fuer-rd-m8000-schaltwerk-halter
 * https://www.bike-discount.de/de/shimano-xt-rd-m8000-leit/spannrollensatz
+
+* https://www.bike-components.de/de/Shimano/Olive-Insertpin-Verbindungsschraube-fuer-Bremsleitung-SM-BH90-p31506/
+
+  
+### verbrauchsteile
+* https://www.bike-components.de/de/Schwalbe/Smart-Sam-Performance-28-Drahtreifen-p73715/?o=1000262432-schwarz-28-44-mm-44-622-1-65-&delivery_country=AT&upid=google&utm_source=google&utm_medium=cpc&utm_campaign=21396085601&utm_content=&utm_term=&gclid=EAIaIQobChMIiZmNhPntiwMVaqeDBx28SyE0EAQYBCABEgKyIvD_BwE 5,99 ieferung
+* https://fahrrad-teile.shop/products/schwalbe-reifen-smart-sam-28x1-75-47-622-schwarz-e-50-hs476-draht?variant=54830412202333&om=7868&gad_source=1&gbraid=0AAAAADCgdBCKojOqII9Pdoqi4VUur1aFa&gclid=EAIaIQobChMIiZmNhPntiwMVaqeDBx28SyE0EAQYASABEgJtAfD_BwE 7,99 lieferung
+
+### federgabel:
+* SR Suntour SF22 NX1 Coil LO DS 28" Federgabel - 63mm - 1 1/8" - https://www.bike24.at/p1517097.html?sku=1764280&utm_source=geizhals.at&utm_medium=cpc
+* RST Vogue Air 28 Zoll Trekking Federgabel - 80mm - 1 1/8" - Disc - QR - weiß https://www.bike24.at/p1376507.html

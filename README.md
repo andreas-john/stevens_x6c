@@ -2,6 +2,8 @@
 
 ## frame 
 
+Stevens XC6 size 52cm / 20.5" 
+
 * seat tube od: 
 * seat post od / tube id: 
 * BB width
@@ -84,6 +86,8 @@
   * Radon C-Clip Kabelhalter (10 Stück)	20030483	1	3,98
   * Schwalbe Smart Sam Performance Addix 28" 42-622 Drahtreifen Reflex	20050520	2x ->	28,04
  
+* ?? FC-T6010 170 QB 
+ 
 * 2019-11 Schnellspanner €10+4
 * 2019-06 €70+15 Felgen | Laufradsatz 29 mt66 | gebraucht gekauft
 * 2019-06 €10,-? SM-MA90 F160 P/ S
@@ -93,17 +97,61 @@
 * 20??- Stevens C6 gekauft
 
 ## current config:
+
+### frame etc
+| component |     mf-id    |   purch & mounted     | comment |
+|-----------|--------------|---------------------|------------|
+| fork      |    FEDERGABEL SUNTOUR28 ZOLL    |   2020-04/5800   |            |
+| stem      |   driver    |                     |            |
+| handle bar|   driver     |                     |            |
+| headset   |              |                     |            |
+| seat tube |   driver       |                     |            |
+| saddle    |    BBB BSD-72    |                     |            |
+|           |              |                     |            |
+
+### wheels
+MT66
+https://si.shimano.com/de/pdfs/dm/WH0005/DM-WH0005-08-GER.pdf
+WH-MT66-F-29 WH-MT66-R-29
+WH-MT66-F15-29 WH-MT66-R12-29
+
+
+MT68/MT66/MT500/MT600/MT620
+Anzahl der Speichen: 24
+* Nur der 29-Zoll-MT66 hat 28 Speichen am Hinterrad.
+
+reifen: 29x1,50-2,25
+
+
+https://www.paul-lange.de/de_DE/products/speiche-fur-wh-mt66?
+https://www.galaxus.de/de/s5/product/shimano-speiche-wh-mt66-vr-laufrad-zubehoer-39188319
+
+28" mäntel und 29" felge?
+
+https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29er-wheels/
+
+
+| component |     mf-id    |   purch & mounted     | comment |
+|-----------|--------------|---------------------|------------|
+| hub  front|              |  ?? partly 2021-02/4800km  |            |
+| hub  rear |  WH-MT66   |  ?? partly 2021-02/4800km  |            |
+| rim       |              |      ??             |            |
+| freehub   | FH-M665 Y-4RL98010  | 2021-02/4800km       |            | Y4RL98020?
+| spokes     |              |       ???              |            |
+| quick releas |              |  2021-02/4800km   |            |
+
+
 ### drive 
 
 | component |     mf-id    |   purch & mounted     | comment |
 |-----------|--------------|---------------------|------------|
-| crankset  |  FC-M5100-B2  | 2021 / 3000km   |170 mm |
-| Pedals |     | | |
-| Bottom bracket |    |  | |
+| crankset  |  FC-M5100-B2 170 SH | 2021-?/3000km   |170 mm |
+| Pedals |    PD-T8000 | 2021-02/4800km | |
+| Bottom bracket |  SMBB52  | 2021-02/4800km | |
 | front derailleur | SLX FD-M7025 2x11 | 2025-02/0km  | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
-| rear derailleur |   XT RD-M8000 SGS  |2021 / 3000km  | long cage  |
-| cassette |   CS-M5100-11  |2021 / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
-| chainrings | | 2021 / 3000km  |  36-26 |
+| rear derailleur |   XT RD-M8000 SGS  |2021-?/3000km  | long cage  |
+| cassette |   CS-M5100-11  |2021-? / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
+| chainrings | | 2021-?/3000km  |  36-26 |
 | chain |     CN-HG701-11 |2025-02/0km | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
 | front shifter | XT SL-M8100-IL I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD |
 | rear shifter | XT Linkglide SL-M8130-IR11 I-Spec EV  | 2025-02/0km  | 11-fach Schalthebel rechts|
@@ -116,14 +164,15 @@ other replacables
 | component |               | | |
 |-----------|---------------|--|--|
 | break leaver l |  XT BL-M8100 left | 2025-02/0km | |
-| break leaver r |  XT BL-M8100 right | 2025-02/0km | |
+| break leaver r |  XT BL-M8100 right | 2021-02/4800km | |
 | brake caliper f |  XT BR-M8100 | 2025-02/0km | |
-| brake caliper r |  XT BR-M8100 | 2022-02/0km | |
-| caliper spacer front | | xxx for 180 mm rotors | |
-| caliper spacer rear | | xxx for 180 mm rotors | |
+| brake caliper r |  XT BR-M8100 | 2021-02/4800km | |
+| caliper spacer front | SM-MA-F180P/S | 2020/02  | adapter from  for 180 mm rotors|
+| caliper spacer rear | SM-MA-R180P/S | 2020/02  | adapter from for 180 mm rotors |
 | brake pads | | 2025-02/0km |  |
-| disk f/r  | | |  |
-| break hose | SM-BH90 | |  |
+| disk f/r  | SM-RT68-M 180 | 2022-02/4800km|  |
+| break hose f | SM-BH90 | 2025-01/0km |  |
+| break hose r | SM-BH90 | 2022-02/4800km |  |
 
 
 * other replacables

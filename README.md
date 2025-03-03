@@ -331,3 +331,8 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 * recon silver RL https://www.bike-discount.de/de/rockshox-recon-silver-rl-29-solo-air-100-qr (~1700g/2025g) 230,-
 * recon silver RL https://www.bike24.at/p1375533.html 200,- https://www.sram.com/en/service/models/fs-rcns-rl-d1
 * https://www.bike-discount.de/de/rockshox-judy-silver-tk-29-solo-air-100-qr-remote-16 (~2800g)
+* https://www.bike24.at/p1235981.html suntour raidon ~ 230,-
+
+* https://youtu.be/464azOSBRHs suntour xcm and xct30 and upgrade programm? 
+* 
+

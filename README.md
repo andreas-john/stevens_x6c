@@ -1,8 +1,14 @@
-# stevens_c6
+# stevens_x6c
+
+* model name: x6 cross? no light variant since suspension fork
+* older than 2010? according to pictures?
+* vbrake variant 
+
+* converted end 2019-2021 to disk brake
 
 ## frame 
 
-Stevens XC6 size 52cm / 20.5" 
+Stevens X6C size 52cm / 20.5" 
 
 * seat tube od: 
 * seat post od / tube id: 

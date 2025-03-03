@@ -320,6 +320,13 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 * https://www.bike-components.de/de/Schwalbe/Smart-Sam-Performance-28-Drahtreifen-p73715/?o=1000262432-schwarz-28-44-mm-44-622-1-65-&delivery_country=AT&upid=google&utm_source=google&utm_medium=cpc&utm_campaign=21396085601&utm_content=&utm_term=&gclid=EAIaIQobChMIiZmNhPntiwMVaqeDBx28SyE0EAQYBCABEgKyIvD_BwE 5,99 ieferung
 * https://fahrrad-teile.shop/products/schwalbe-reifen-smart-sam-28x1-75-47-622-schwarz-e-50-hs476-draht?variant=54830412202333&om=7868&gad_source=1&gbraid=0AAAAADCgdBCKojOqII9Pdoqi4VUur1aFa&gclid=EAIaIQobChMIiZmNhPntiwMVaqeDBx28SyE0EAQYASABEgJtAfD_BwE 7,99 lieferung
 
+* https://www.bike-discount.de/de/radon-kurbelwerkzeug-fuer-shimano-hollowtech-ii
+* https://www.bike-discount.de/de/shimano-schnellspanner-fuer-wh-m8000
+
 ### federgabel:
-* SR Suntour SF22 NX1 Coil LO DS 28" Federgabel - 63mm - 1 1/8" - https://www.bike24.at/p1517097.html?sku=1764280&utm_source=geizhals.at&utm_medium=cpc
-* RST Vogue Air 28 Zoll Trekking Federgabel - 80mm - 1 1/8" - Disc - QR - weiß https://www.bike24.at/p1376507.html
+* maxspeed 25km/h?
+* SR Suntour SF22 NX1 Coil LO DS 28" Federgabel - 63mm - 1 1/8" - https://www.bike24.at/p1517097.html?sku=1764280&utm_source=geizhals.at&utm_medium=cpc (~2500g)
+* RST Vogue Air 28 Zoll Trekking Federgabel - 80mm - 1 1/8" - Disc - QR - weiß https://www.bike24.at/p1376507.html (1800g)
+* recon silver RL https://www.bike-discount.de/de/rockshox-recon-silver-rl-29-solo-air-100-qr (~1700g/2025g) 230,-
+* recon silver RL https://www.bike24.at/p1375533.html 200,- https://www.sram.com/en/service/models/fs-rcns-rl-d1
+* https://www.bike-discount.de/de/rockshox-judy-silver-tk-29-solo-air-100-qr-remote-16 (~2800g)

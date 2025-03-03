@@ -322,6 +322,7 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 
 * https://www.bike-discount.de/de/radon-kurbelwerkzeug-fuer-shimano-hollowtech-ii
 * https://www.bike-discount.de/de/shimano-schnellspanner-fuer-wh-m8000
+* https://www.bike-components.de/de/Suntour/Federgabelschluessel-fuer-Trekking-Cross-Gabeln-p40003/?v=12054-schwarz
 
 ### federgabel:
 * maxspeed 25km/h?

@@ -5,6 +5,7 @@
 * vbrake variant 
 
 * converted end 2019-2021 to disk brake
+* converted 2025-01 - 02 from trecking groupset to mtb xt 8000/8100 groupset
 
 ## frame 
 

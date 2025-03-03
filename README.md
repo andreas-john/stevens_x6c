@@ -306,10 +306,3 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 * 
 * https://www.bike-discount.de/de/shimano-achseinheit-fuer-rd-m8000-schaltwerk-halter
 * https://www.bike-discount.de/de/shimano-xt-rd-m8000-leit/spannrollensatz
-
-
-
-
-
-
-

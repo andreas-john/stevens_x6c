@@ -1,15 +1,15 @@
-# stevens_x6c
+# stevens_x6_08
 
-* model name: x6 cross? no light variant since suspension fork
-* older than 2010? according to pictures?
+* model name: x6 cross
+* 2008 kauf (Stevens 08 X6 Shox Gent black 52) 680,-
 * vbrake variant 
 
 * converted end 2019-2021 to disk brake
-* converted 2025-01 - 02 from trecking groupset to mtb xt 8000/8100 groupset
+* converted 2025-01 - 02 from TR groupset to mtb xt 8000/8100/... groupset mixture 2x11
 
 ## frame 
 
-Stevens X6C size 52cm / 20.5" 
+Stevens X6 size 52cm / 20.5" 
 
 * seat tube od: 
 * seat post od / tube id: 
@@ -27,14 +27,14 @@ Stevens X6C size 52cm / 20.5"
 * reach
 * ...
 
-## other componentx
+## other components
 
 
 * gabel: €55,- FEDERGABEL SUNTOUR28 ZOLL 2020-04? ausgetauscht weil bruch
 * lenker
 * vorbau
-* KSK beaver tail
-* ABUS schloss
+* SKS beaver tail 26-28"
+* ABUS schloss Bordo 6000
 
 ## chronology
 
@@ -335,4 +335,26 @@ https://bike.shimano.com/de-DE/products/components/pdp.P-FC-M5100-2.html
 
 * https://youtu.be/464azOSBRHs suntour xcm and xct30 and upgrade programm? 
 * 
+
+
+# references
+
+https://productinfo.shimano.com/en
+
+## compatibility list of Shimano:
+* https://productinfo.shimano.com/en/compatibility/C-433 (2024-2025)
+* https://productinfo.shimano.com/pdfs/product/thisyear/2024-2025_Compatibility_v030_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2023-2024_Compatibility_v030_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2022-2023_Compatibility_v039_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2021-2022_Compatibility_v032_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2020-2021_Compatibility_v035_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2019-2020_Compatibility_v033_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2018-2019_Compatibility_v038_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2017-2018_Compatibility_v030_en.pdf
+
+## spec handbook pdfs
+* https://productinfo.shimano.com/en/spec
+* https://productinfo.shimano.com/pdfs/product/archive/2022-2023_Specifications_v035_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2020-2021_Specifications_v032_en.pdf
+* https://productinfo.shimano.com/pdfs/product/archive/2016-2017_Specifications_v023_en.pdf
 

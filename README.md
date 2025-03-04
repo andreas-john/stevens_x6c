@@ -2,10 +2,44 @@
 
 * model name: x6 cross
 * 2008 kauf (Stevens 08 X6 Shox Gent black 52) 680,-
-* vbrake variant 
+* vbrake variant https://web.archive.org/web/20090717043919/http://www.stevensbikes.de/2008/index.php?bik_id=374&sect=equipment&lang=de_DE#inhalt
+
+* Gabel		SR Suntour NCX D Magnesium, 63mm, Lockout
 
 * converted end 2019-2021 to disk brake
 * converted 2025-01 - 02 from TR groupset to mtb xt 8000/8100/... groupset mixture 2x11
+
+* original:
+
+### Chassis
+ 	Steuersatz		FSA Ahead Integrated Mod. 11, 1 1/8"
+ 	Bremsen		Shimano Deore BR-M530 V
+ 	Größen		52
+### Antrieb
+ 	Kurbeln		Shimano Deore FC-M532, 48-36-26, Guard
+ 	Schaltung h		Shimano Deore RD-M531
+ 	Umwerfer v		Shimano Deore FD-M531
+ 	Kette		Shimano CN-HG53
+ 	Cassette		Shimano CS-HG50.9 11-32
+ 	Pedale		ATB Alu Dual Side
+### Laufräder
+ 	Nabe h		Shimano Deore FH-M530
+ 	Nabe v		Shimano Deore HB-M530
+ 	Felgen		Mavic A119 geöst, CNC side 36 L
+ 	Speichen		Nirosta Edelstahl 2.0mm
+ 	Reifen		Schwalbe Smart Sam 700x35C
+### Cockpit
+ 	Lenker		Oxygen Driver 9° 58cm
+ 	Vorbau		Oxygen Driver, 25.4mm, 6°, stainless bolts
+ 	Sattel		Oxygen Velocity
+ 	Sattelstütze		Oxygen Driver 300mm
+ 	Schalthebel		Shimano Deore SL-M530
+ 	Bremshebel		Shimano Deore BL-M511
+### Daten
+ 	Gewicht		12.2 kg
+ 	Rohrmaterial		Aluminium 7005DB Superlite t-wall
+ 	Gabel		SR Suntour NCX D Magnesium, 63mm, Lockou
+  Farbe:		Velvet Black
 
 ## frame 
 
@@ -40,7 +74,17 @@ Stevens X6 size 52cm / 20.5"
 
 ### 2025  
 
-* 2025-02 M8000 / M8100 revamp : ~233 (components) + ~70 maintenance 
+* 2025-02 M8000 / M8100 revamp : ~233 (components) + ~70 maintenance
+
+3 optional mods:
+* 38/28: https://si.shimano.com/ja/pdfs/ev/FC-M7000-3981/EV-FC-M7000-3981A.pdf
+  * https://www.galaxus.de/de/s3/product/shimano-slx-fc-m7000-170-mm-velokurbel-6185320?utm_campaign=preisvergleich&utm_source=guenstiger&utm_medium=cpc&utm_content=2705624&supplier=2705624&utm_source_platform=sea&utm_term=402294830474207182
+  * I-FCM7000CX88 https://www.bike-components.de/de/Shimano/SLX-Kurbelgarnitur-FC-M7000-11-2-Hollowtech-II-p49892/
+  * Y1VG98030 Chainring 38T-BD for 38-28T
+  * Y1VG28000 Chainring 28T-BD for 38-28T
+
+* dropper post
+* air fork
 
 **Komponenten**
 

@@ -206,13 +206,15 @@ https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29e
 
 
 ### drive 
+avg 1200 km per year / commute: ~1000 km 200 ~ fun
+avg 100 km p month
 
 | component |     mf-id    |   purch & mounted     | comment |
 |-----------|--------------|---------------------|------------|
 | crankset  |  FC-M5100-B2 170 SH | 2021-?/3000km   |170 mm |
 | Pedals |    PD-T8000 | 2021-02/4800km | |
-| Bottom bracket |  SMBB52  | 2021-02/4800km | |
-| front derailleur | SLX FD-M7025 2x11 | 2025-02/0km  | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
+| Bottom bracket |  SMBB52  | 2018-09/7700km | dealer-man. https://si.shimano.com/en/pdfs/dm/TRFC001/DM-TRFC001-04-ENG.pdf |
+| front derailleur | SLX FD-M7025 2x11 | 2025-02/0km  | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer dealerman. https://si.shimano.com/en/pdfs/dm/MAFD001/DM-MAFD001-03-ENG.pdf |
 | rear derailleur |   XT RD-M8000 SGS  |2021-?/3000km  | long cage, https://si.shimano.com/en/pdfs/dm/MARD001/DM-MARD001-05-ENG.pdf |
 | cassette |   CS-M5100-11  |2021-? / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
 | chainrings | | 2021-?/3000km  |  36-26 |
@@ -222,6 +224,8 @@ https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29e
 | cable |    XTR OT-SP41 | 2025-02/0km | Polymer Schaltzugset black |
 
 other replacables
+
+bb + crank grease Y04110000
 
 ### brakes
 
@@ -249,14 +253,29 @@ https://www.bike-discount.de/en/shimano-tube-joint-kit-for-sm-bh90-with-connecti
 
 # considerations
 
-my personal max speed: 15/17 + 48
+my personal max speed: 48: 15/17
 
-| System               | Rear teeth                    | Front teeth | Ratio Min        | Ratio Max | Ratio Mymax 17  | Ratio Mymax 15 |
-|----------------------|---------------------------------|-------------|----------------|--------------|--------------|--------------|
-| Shimano Deore 3x9    | 11-13-15-17-20-23-26-30-36        | 26-36-48   | 0.722 (26:36) 0.867 (26:30) | 4.36 (48:11) | 2.82 (48:17)  |  3.20 (48:15) |
-| Shimano XT 8000 2x11 | 11-13-15-17-19-21-24-28-32-37-42  | 26-36      | 0.619 (26:42) 0.703 (26:37) 0.813 (26:32)  | 3.27 (36:11) | 2.77 (36:13) |     |
-| Shimano XT 8000 2x11 | 11-13-15-17-19-21-24-28-32-37-42  | 28-38      | 0.667 (28:42) 0.757 (28:37) 0.875 (28:32) | 3.46 (38:11) | 2.92 (38:13) |  2.53 (38:15)   |
+| System               | Rear teeth                    | Front teeth | 
+|----------------------|---------------------------------|-------------|
+| Shimano Deore 3x9    | 11-13-15-17-20-23-26-30-36        | 26-36-48   | 
+| Shimano XT 8000 2x11 | 11-13-15-17-19-21-24-28-32-37-42  | 26-36      |
+| Shimano XT 8000 2x11 | 11-13-15-17-19-21-24-28-32-37-42  | 28-38      |
 
+gear ratio Min
+
+| System               |  Min a      | Min b | Min c | 
+|----------------------|------------------|---------|----------|
+| Shimano Deore 3x9    |  | 0.722 (26:36) | 0.867 (26:30)  |
+| Shimano XT 8000 2x11 26T| 0.619 (26:42) |0.703 (26:37) | 0.813 (26:32) |
+| Shimano XT 8000 2x11 28T |  0.667 (28:42) |0.757 (28:37) | 0.875 (28:32) |  
+
+gear ratio Max
+
+| System               |   Max a |  max b  | max c | max d
+|----------------------|----------------|--------------|---------------|---------------|
+| Shimano Deore 3x9    |  2.82 (48:17)  |  3.20 (48:15) |  3.69 (48:13) |4.36 (48:11) | 
+| Shimano XT 8000 2x11 36T |  2.77 (36:13) |  3.27 (36:11)   | | |
+| Shimano XT 8000 2x11 38T |  2.53 (38:15) | 2.92 (38:13)   |  3.46 (38:11) | |
  
 https://bike.shimano.com/de-DE/products/components.series_deorext.html
 

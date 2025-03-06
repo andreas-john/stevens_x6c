@@ -213,11 +213,11 @@ https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29e
 | Pedals |    PD-T8000 | 2021-02/4800km | |
 | Bottom bracket |  SMBB52  | 2021-02/4800km | |
 | front derailleur | SLX FD-M7025 2x11 | 2025-02/0km  | Umwerfer High Down-Swing Double Pull Schelle 34,9mm   + spacer |
-| rear derailleur |   XT RD-M8000 SGS  |2021-?/3000km  | long cage  |
+| rear derailleur |   XT RD-M8000 SGS  |2021-?/3000km  | long cage, https://si.shimano.com/en/pdfs/dm/MARD001/DM-MARD001-05-ENG.pdf |
 | cassette |   CS-M5100-11  |2021-? / 3000km       | 11-13-15-17-19-21-24-28-32-37-42 |
 | chainrings | | 2021-?/3000km  |  36-26 |
 | chain |     CN-HG701-11 |2025-02/0km | 11-speed Chain with Quick-Link, Dynasys II, SIL/TEC|
-| front shifter | XT SL-M8100-IL I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD |
+| front shifter | XT SL-M8100-IL I-Spec EV      | 2025-02/0km     | 2-fach Schalthebel links ohne OGD, dealer-man. https://si.shimano.com/en/pdfs/dm/MASL001/DM-MASL001-03-ENG.pdf, parts: https://si.shimano.com/de/ev/SL-M8100-I-4519 |
 | rear shifter | XT Linkglide SL-M8130-IR11 I-Spec EV  | 2025-02/0km  | 11-fach Schalthebel rechts|
 | cable |    XTR OT-SP41 | 2025-02/0km | Polymer Schaltzugset black |
 

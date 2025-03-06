@@ -1,7 +1,7 @@
 # stevens_x6_08
 
 * model name: x6 cross
-* 2008 kauf (Stevens 08 X6 Shox Gent black 52) 680,-
+* 2008 kauf (Stevens 08 X6 Shox Gent black 52) 680,- + accessoirs
 * vbrake variant https://web.archive.org/web/20090717043919/http://www.stevensbikes.de/2008/index.php?bik_id=374&sect=equipment&lang=de_DE#inhalt
 
 * Gabel		SR Suntour NCX D Magnesium, 63mm, Lockout
@@ -72,11 +72,11 @@ Stevens X6 size 52cm / 20.5"
 
 ## chronology
 
-### 2025  
+### 2025 trekking -> mtb + maintenance
 
 * 2025-02 M8000 / M8100 revamp : ~233 (components) + ~70 maintenance
 
-3 optional mods:
+pending: 3 optional mods:
 * 38/28: https://si.shimano.com/ja/pdfs/ev/FC-M7000-3981/EV-FC-M7000-3981A.pdf
   * https://www.galaxus.de/de/s3/product/shimano-slx-fc-m7000-170-mm-velokurbel-6185320?utm_campaign=preisvergleich&utm_source=guenstiger&utm_medium=cpc&utm_content=2705624&supplier=2705624&utm_source_platform=sea&utm_term=402294830474207182
   * I-FCM7000CX88 https://www.bike-components.de/de/Shimano/SLX-Kurbelgarnitur-FC-M7000-11-2-Hollowtech-II-p49892/
@@ -105,7 +105,13 @@ Stevens X6 size 52cm / 20.5"
 
 * 2x brakepads
 
-### 2021 
+### 2022 maintenance
+
+* FC-M780 / FC-T780 / FC-T781 10-fach schwarz/36 Zähne 22.17€
+* Deore Kettenblatt FC-T6010 10-fach für Kettenschutzring schwarz/48 Zähne 16.12€
+* kette
+
+### 2020-21 diskbrakes + maintenance
 
 * 2021-02? revamp: ~ 108 + 89 + 29 + 15 +10 +70 +10 + 50 = 381 + 60
 
@@ -122,6 +128,8 @@ Stevens X6 size 52cm / 20.5"
 * 2020-08 €29, -Deore Bremse Vorne mit 180mm
 * 2020-01 €15 + 4,5 Schaltwerfer RD-M591
 
+### 2019 prepare diskbrakes
+
 * 2019-11:
   * Shimano Entlüftungskit TL-BT03S 16,12€
   * Shimano Schaltzugset OT-SP41 Polymer MTB 29,23€
@@ -135,17 +143,22 @@ Stevens X6 size 52cm / 20.5"
   * Shimano Adapter HR auf 180mm SM-MA-R180P/S	YY00007709	1	5,54
   * Shimano Adapter HR auf 160 mm SM-MA-R160P/S	YY00007708	1	5,95
   * Radon C-Clip Kabelhalter (10 Stück)	20030483	1	3,98
-  * Schwalbe Smart Sam Performance Addix 28" 42-622 Drahtreifen Reflex	20050520	2x ->	28,04
- 
-* ?? FC-T6010 170 QB 
+  * Schwalbe Smart Sam Performance Addix 28" 42-622 Drahtreifen Reflex	20050520	2x ->	28,04 
  
 * 2019-11 Schnellspanner €10+4
 * 2019-06 €70+15 Felgen | Laufradsatz 29 mt66 | gebraucht gekauft
 * 2019-06 €10,-? SM-MA90 F160 P/ S
 * 2019-04 €105,- Shimano Scheibenbremsanlage SLX Komplett Set
 
-### 20??
-* 20??- Stevens C6 gekauft
+### 2018 maintenance
+
+* 2018-09
+  * Shimano Deore FC-T6010 QB 170 mm 79.90
+  * SM-BB52 Hollowtech II 9.06
+  * kette...
+
+### 2008
+* 2008- Stevens C6 gekauft
 
 ## current config:
 

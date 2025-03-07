@@ -207,8 +207,8 @@ https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29e
 | rim       |   MT66        |      ??             |            |
 | freehub   | FH-M665 Y-4RL98010  | 2021-02/4800km       |            | Y4RL98020?
 | spokes     |              |       ???              |            |
-| quick release f |      Y2A498010      |  2025-02/0km   |       133mm     |
-| quick release r |       Y2A498020      |  2025-02/0km   |       173mm      |
+| quick release f |  Y2A498010  |  2025-02/0km   |       133mm     |
+| quick release r |  Y32Z98020  |  2025-02/0km   |       173mm      |
 | drahtreifen f | schwarz/28 "/47 mm/47-622/1.75 " | 2022-??/3600km |Schwalbe Smart Sam Performance 28"|
 | drahtreifen r | schwarz/28 "/47 mm/47-622/1.75 " | 2025-02/0km |Schwalbe Smart Sam Performance 28"|
 

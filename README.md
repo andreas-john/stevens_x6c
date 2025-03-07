@@ -113,7 +113,7 @@ pending: 3 optional mods:
 
 ### 2020-21 diskbrakes + maintenance
 
-* 2021-02? revamp: ~ 108 + 89 + 29 + 15 +10 +70 +10 + 50 = 381 + 60
+* 2021-02? revamp: ~ 108 + 89 + 29 + 15 +10 +70 +10 + 50 +70 +15  = 466 + 60
 
 * 2021-01 repl: schaltzüge komplett polymer + hydraulik schlauch und oliven + 9fach kette + mäntel : ~60?
 
@@ -129,6 +129,8 @@ pending: 3 optional mods:
 * 2020-01 €15 + 4,5 Schaltwerfer RD-M591
 
 ### 2019 prepare diskbrakes
+
+* 2019-11: Laufradsatz MT66 gebraucht 70,- + 15,-
 
 * 2019-11:
   * Shimano Entlüftungskit TL-BT03S 16,12€
@@ -197,12 +199,13 @@ https://www.sicklines.com/2012/03/01/2013-shimano-slx-and-wh-mt66-wh-mt68-26-29e
 
 | component |     mf-id    |   purch & mounted     | comment |
 |-----------|--------------|---------------------|------------|
-| hub  front|              |  ?? partly 2021-02/4800km  |            |
+| hub  front|  WH-MT66            |  ?? partly 2021-02/4800km  |            |
 | hub  rear |  WH-MT66   |  ?? partly 2021-02/4800km  |            |
-| rim       |              |      ??             |            |
+| rim       |   MT66        |      ??             |            |
 | freehub   | FH-M665 Y-4RL98010  | 2021-02/4800km       |            | Y4RL98020?
 | spokes     |              |       ???              |            |
-| quick releas |              |  2021-02/4800km   |            |
+| quick release f |      Y2A498010      |  2025-02/0km   |       133mm     |
+| quick release r |       Y2A498020      |  2025-02/0km   |       173mm      |
 
 
 ### drive 

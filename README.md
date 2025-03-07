@@ -23,8 +23,8 @@
  	Cassette		Shimano CS-HG50.9 11-32
  	Pedale		ATB Alu Dual Side
 ### Laufräder
- 	Nabe h		Shimano Deore FH-M530
- 	Nabe v		Shimano Deore HB-M530
+ 	Nabe h	Shimano Deore FH-M530
+ 	Nabe v	Shimano Deore HB-M530
  	Felgen		Mavic A119 geöst, CNC side 36 L
  	Speichen		Nirosta Edelstahl 2.0mm
  	Reifen		Schwalbe Smart Sam 700x35C
@@ -74,7 +74,7 @@ Stevens X6 size 52cm / 20.5"
 
 ### 2025 trekking -> mtb + maintenance
 
-* 2025-02 M8000 / M8100 revamp : ~233 (components) + ~70 maintenance
+* 2025-02 M8000 / M8100 revamp : ~256 (components) + ~85 maintenance
 
 pending: 3 optional mods:
 * 38/28: https://si.shimano.com/ja/pdfs/ev/FC-M7000-3981/EV-FC-M7000-3981A.pdf
@@ -92,14 +92,17 @@ pending: 3 optional mods:
 * 40,- + 4,3 used bremssattel + bremsleitung vorne
 * 89,72 +6,99 new bremshebel links, schalthebel rechts links
 * 13,10 +6,99 new umwerfer SLX FD-M7025
-* **total: 232,82 + 11,29**
+* 13.10 +3,- € Shimano XT Nabenschnellspanner M8000 vr 133mm
+* 10.07€ Shimano XT Nabenschnellspanner M8000 hr 173mm
+* **total: 255,99 + 14,29**
 
 **verbrauchsmaterialien, gekauft:** 
 
 * schaltzugset polymer: 27,22
 * kette: 40,-
 * oliven+needle : 10 x 2,01
-* **total 69,23**
+* Drahtreifen Schwalbe Smart Sam Performance 28" Drahtreifen schwarz/28 "/47 mm/47-622/1.75 " 16.12€
+* **total 85,35**
 
 **verbrauchsmaterialien fundus:**
 

@@ -88,7 +88,11 @@ pending: 3 optional mods:
 
 **Komponenten**
 
-* 90,- used: werfer hinten + kurbelgarnitur /kettenblätter + kasette
+* Used: Shimano Kurbel XT - FC-M8000 - 170mm € 55 + 8
+* NEU Shimano Kettenbatt 38 Zähne + NEU Shimano Kettenblatt 28 Zähne für 2x11 € 28 + 5,-
+
+
+* 90,- used: werfer hinten (35) + kurbelgarnitur /kettenblätter (30) + kasette(25)
 * 40,- + 4,3 used bremssattel + bremsleitung vorne
 * 89,72 +6,99 new bremshebel links, schalthebel rechts links
 * 13,10 +6,99 new umwerfer SLX FD-M7025
@@ -102,6 +106,7 @@ pending: 3 optional mods:
 * kette: 40,-
 * oliven+needle : 10 x 2,01
 * Drahtreifen Schwalbe Smart Sam Performance 28" Drahtreifen schwarz/28 "/47 mm/47-622/1.75 " 16.12€
+* schlauch schwalbe 
 * **total 85,35**
 
 **verbrauchsmaterialien fundus:**

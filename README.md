@@ -105,9 +105,9 @@ pending: 3 optional mods:
 * schaltzugset polymer: 27,22
 * kette: 40,-
 * oliven+needle : 10 x 2,01
-* Drahtreifen Schwalbe Smart Sam Performance 28" Drahtreifen schwarz/28 "/47 mm/47-622/1.75 " 16.12€
-* schlauch schwalbe 
-* **total 85,35**
+* Drahtreifen Schwalbe Smart Sam Performance 28" Drahtreifen schwarz/28 "/47 mm/47-622/1.75 " 16,12€
+* schlauch schwalbe SV19 47-622 28/29x1.75: 8,99
+* **total 94,34**
 
 **verbrauchsmaterialien fundus:**
 

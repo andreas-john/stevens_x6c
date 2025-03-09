@@ -88,13 +88,17 @@ pending: 3 optional mods:
 
 **Komponenten**
 
-* Used: Shimano Kurbel XT - FC-M8000 - 170mm € 55 + 8
+* Used: Shimano Kurbel XT - FC-M8000 - 170mm € 55 + 8 https://si.shimano.com/ko/pdfs/ev/FC-M8000-3849/EV-FC-M8000-3849B.pdf
+  * https://www.rosebikes.de/shimano-kettenblattschrauben-fuer-fc-m7000-8000-mt700-m780-m782-m785-2659100
+  * https://www.veloruf.de/n/shimanoteile.html?id=50880933&art=140685087
 * NEU Shimano Kettenbatt 38 Zähne + NEU Shimano Kettenblatt 28 Zähne für 2x11 € 28 + 5,-
 
 
 * 90,- used: werfer hinten (35) + kurbelgarnitur /kettenblätter (30) + kasette(25)
 * 40,- + 4,3 used bremssattel + bremsleitung vorne
-* 89,72 +6,99 new bremshebel links, schalthebel rechts links
+* 43,35 + 6,99 BL-M8100 Bremshebel links ,
+  * 26,21 XT Linkglide SL-M8130 I-Spec EV 11-fach Schalthebel rechts 
+  * 20,16 XT SL-M8100 I-Spec EV 2-fach Schalthebel links ohne OGD
 * 13,10 +6,99 new umwerfer SLX FD-M7025
 * 13.10 +3,- € Shimano XT Nabenschnellspanner M8000 vr 133mm
 * 10.07€ Shimano XT Nabenschnellspanner M8000 hr 173mm
@@ -186,7 +190,16 @@ pending: 3 optional mods:
 ### wheels
 MT66
 https://si.shimano.com/de/pdfs/dm/WH0005/DM-WH0005-08-GER.pdf
+
+**explosionszeichnung + partnumbers:**
+
+* front wheel QR: https://si.shimano.com/en/pdfs/ev/WH-MT66-F-29-3372/EV-WH-MT66-F-29-3372B.pdf
+* front wheel trough axle: https://si.shimano.com/fr/pdfs/ev/WH-MT66-F15-29-3371/EV-WH-MT66-F15-29-3371B.pdf
+* rear wheel QR: https://si.shimano.com/en/pdfs/ev/WH-MT66-R-29-3374/EV-WH-MT66-R-29-3374B.pdf 
+* rear wheel through axle: https://si.shimano.com/en/pdfs/ev/WH-MT66-R12-29-3373/EV-WH-MT66-R12-29-3373B.pdf
+
 WH-MT66-F-29 WH-MT66-R-29
+
 WH-MT66-F15-29 WH-MT66-R12-29
 
 

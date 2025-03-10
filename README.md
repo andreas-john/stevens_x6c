@@ -89,9 +89,14 @@ pending: 3 optional mods:
 **Komponenten**
 
 * Used: Shimano Kurbel XT - FC-M8000 - 170mm € 55 + 8 https://si.shimano.com/ko/pdfs/ev/FC-M8000-3849/EV-FC-M8000-3849B.pdf
-  * big chainring: https://www.bike-components.de/de/Shimano/Kettenblattschrauben-4-Arm-XT-FC-M8000-2-XTR-FC-M9100-2-p48611/
-  * big chainring: https://www.rosebikes.de/shimano-xt-2-fach-kettenblattschrauben-2656149?product_shape=schwarz&article_size=Standard&eqrecqid=ef700fa0-fd7e-11ef-a4c0-00005e828630
-  * small chainring: https://www.rosebikes.de/shimano-kettenblattschrauben-fuer-fc-m7000-8000-mt700-m780-m782-m785-2659100
+  * Y-1RL98060 big chainring:
+    * https://www.bike-discount.de/de/shimano-xt-fc-m8000-2-fach-kettenblattschrauben
+    * https://www.bike-components.de/de/Shimano/Kettenblattschrauben-4-Arm-XT-FC-M8000-2-XTR-FC-M9100-2-p48611/
+    * https://www.rosebikes.de/shimano-xt-2-fach-kettenblattschrauben-2656149?product_shape=schwarz&article_size=Standard&eqrecqid=ef700fa0-fd7e-11ef-a4c0-00005e828630
+  * Y-1NV98040 small chainring:
+    * https://www.bike-discount.de/de/shimano-xt/slx-kettenblattschrauben-innen
+    * https://www.bike-discount.de/de/shimano-105/xt-kettenblattschrauben-innen
+    * https://www.rosebikes.de/shimano-kettenblattschrauben-fuer-fc-m7000-8000-mt700-m780-m782-m785-2659100
 * NEU Shimano Kettenbatt 38 Zähne + NEU Shimano Kettenblatt 28 Zähne für 2x11 € 28 + 5,-
 
 

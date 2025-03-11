@@ -173,8 +173,8 @@ pending: 3 optional mods:
 ### 2018 maintenance
 
 * 2018-09
-  * Shimano Deore FC-T6010 QB 170 mm 79.90
-  * SM-BB52 Hollowtech II 9.06
+  * Shimano Deore FC-T6010 QB 170 mm €79.90
+  * SM-BB52 Hollowtech II €9.06
   * kette...
 
 ### 2008
@@ -213,7 +213,7 @@ MT68/MT66/MT500/MT600/MT620
 Anzahl der Speichen: 24
 * Nur der 29-Zoll-MT66 hat 28 Speichen am Hinterrad.
 
-reifen: 29x1,50-2,25
+reifengrößen: 29x1,50-2,25, derzeit 47x622 = 28 x 1,75
 
 
 https://www.paul-lange.de/de_DE/products/speiche-fur-wh-mt66?

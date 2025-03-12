@@ -467,3 +467,7 @@ https://productinfo.shimano.com/en
 * https://productinfo.shimano.com/pdfs/product/archive/2020-2021_Specifications_v032_en.pdf
 * https://productinfo.shimano.com/pdfs/product/archive/2016-2017_Specifications_v023_en.pdf
 
+
+
+
+https://www.willhaben.at/iad/kaufen-und-verkaufen/d/shimano-xt-m8000-kettenblaetter-38-28-1778669891
